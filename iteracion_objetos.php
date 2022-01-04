@@ -1,4 +1,5 @@
 <?php
+// iteración de objetos
 class Laptop {
     public $marca;
     public $modelo;
